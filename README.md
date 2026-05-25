@@ -17,18 +17,6 @@ Reach a level where I can meaningfully contribute to Raptor engine development (
   - NASA CEA
   - MIT OCW Rocket Propulsion
 
-## Repository Structure
-rocket-science/
-├── week-1/
-│   ├── day-1-notes.md
-│   ├── ...
-├── simulations/          # Python scripts, RPA models, CEA outputs
-├── projects/             # CAD, test stand designs, engine models
-├── notes/                # Book chapter summaries, key concepts
-├── portfolio/            # Major projects for job applications
-└── README.md
-
-
 ## Progress Tracking
 Weekly updates posted in the main Grok chat thread.  
 Monthly milestone reviews.
